@@ -1,0 +1,38 @@
+<?php
+
+/**
+ * UBC CLF Carousel options
+ */
+
+/*function gazebo_ubc_clf_carousel($variables) {
+  $option = theme_get_setting('carousel_option');
+  
+  $output = '
+  <div id="UBCHeadlineWidget" class="' . $option . '">
+  <ul class="carousel">
+    <li>  
+      <div class="UBCHeadlinePicture">    
+        <a href="node/11">
+          <img src="http://research.ubc.ca/sites/research.ubc.ca/files/imagecache/news_story_slider-580x375/images/news/don_mavinic_4.jpg" alt="" title=""  class="imagecache imagecache-news_story_slider-580x375 imagecache-default imagecache-news_story_slider-580x375_default" width="580" height="375" />
+        </a>      
+      </div>
+      <div id="carousel-text-wrapper">
+        <h4>Faculty Awards &amp; Honours</h4>
+        <p>Prof. Don Mavinic (Civil Eng.) is one of many UBC faculty members who received recognition for their research in 2010.</p>
+        <a class="UBCHeadlineReadMore" href="node/11">Read More</a>
+      </div>
+    </li>
+  </ul>
+   
+  <!-- Controls -->
+  <div class="UbcHeadlineNav"> 
+    <a class="UbcHeadlineNavPause" href="#">' . t('Pause') . '</a> 
+    <a class="UbcHeadlineNavPrev" href="#">Prev</a> 
+    <span class="UbcHeadlineNavPageCount"></span> 
+    <a class="UbcHeadlineNavNext" href="#">Next</a>
+  </div>   
+  </div>';
+  
+  return $output;
+
+}*/

@@ -1,0 +1,4 @@
+name = UBC CLF Carousel
+description = Carousel options for UBC CLF
+core = 7.x
+package = "UBC IT"
